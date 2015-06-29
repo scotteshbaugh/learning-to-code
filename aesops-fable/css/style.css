@@ -1,0 +1,25 @@
+h1 {
+  font-size: 48px;
+  font-family: Vollkorn;
+  color: #00ABA9;
+}
+p {
+  font-family: Vollkorn;
+  font-size: 18px;
+  color: #003333;
+  line-height: 1.9em;
+  width: 600px;
+}
+
+div {
+  padding: 20px 0 0 30px;
+}
+
+/* html {
+  background: url(http://media3.onsugar.com/files/upl1/0/88/06_2009/M_McConaughey_024.jpg) no-repeat center top fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover; 
+}
+*/
