@@ -1,6 +1,22 @@
 button {
 	width: 120px;
 	height: 120px;
+	padding: 0;
+	border: none;
+	background: none;
+	margin: 20px;
+}
+
+button:focus {
+  outline-color: transparent;
+  outline-style: none;
+}
+}
+
+button img {
+	height: 100px;
+	width: 100px;
+	margin: 20px 20px 20px 20px;
 }
 
 #wrapper {
@@ -9,8 +25,10 @@ button {
 }
 
 #pad {
-	width: 360px;
-	height: 360px;
+	width: 800px;
+	height: 960px;
+	margin: 0 auto;
+	padding: 100px 0 0 0;
 }
 
 #pad button {
